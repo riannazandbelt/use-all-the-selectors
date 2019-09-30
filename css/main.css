@@ -30,6 +30,4 @@ p + strong {
   color: #fff;
 }
 
-a: not(.no-highlight)
-  background-color: #719e07;
-}
+a: not (.no-highlight) {background-color: #719e07;}
