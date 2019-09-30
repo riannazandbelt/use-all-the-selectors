@@ -23,9 +23,9 @@ h2 {
 }
 
 .wrapper > .dfn {
-  background-color: #719e07;
+  background-color: #b58900;
 }
 
-.dfn + strong {
+p + strong {
   color: #fff;
 }
