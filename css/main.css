@@ -22,6 +22,6 @@ h2 {
   color: #fff;
 }
 
-.wrapper > .dfn {
+.wrapper + p {
   background-color: #719e07;
 }
