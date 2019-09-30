@@ -21,3 +21,7 @@ nav ul {
 h2 {
   color: #fff;
 }
+
+.wrapper > .dfn {
+  background-color: #719e07;
+}
