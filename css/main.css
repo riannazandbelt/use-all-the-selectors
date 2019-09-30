@@ -22,10 +22,10 @@ h2 {
   color: #fff;
 }
 
-wrapper > p {
+.wrapper > .dfn {
   background-color: #719e07;
 }
 
-dfn + strong {
+.dfn + strong {
   color: #fff;
 }
