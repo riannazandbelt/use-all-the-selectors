@@ -22,6 +22,6 @@ h2 {
   color: #fff;
 }
 
-.wrapper + p {
+.wrapper > p {
   background-color: #719e07;
 }
