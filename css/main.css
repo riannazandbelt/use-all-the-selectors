@@ -30,6 +30,6 @@ p + strong {
   color: #fff;
 }
 
-ul li: first-child {
+a: {not(.no-highlight)
   background-color: #719e07;
 }
