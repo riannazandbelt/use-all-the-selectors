@@ -29,3 +29,7 @@ h2 {
 p + strong {
   color: #fff;
 }
+
+ul li: first-child {
+  background-color: #719e07;
+}
