@@ -25,3 +25,7 @@ h2 {
 .wrapper > p {
   background-color: #719e07;
 }
+
+.dfn + strong {
+  color: #fff;
+}
